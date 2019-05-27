@@ -24,7 +24,16 @@ components are documented below.
 
 - Nothing, yet.
 
-[unreleased-1]: https://github.com/martinanderssondotcom/box-ubuntu-budgie-19.04/compare/v1.0.0...HEAD
+[unreleased-1]: https://github.com/martinanderssondotcom/box-ubuntu-budgie-19.04/compare/v1.0.1...HEAD
+
+## [1.0.1][101-1] - 2019-05-27
+
+### Improved
+
+- [issue martinanderssondotcom/box-ubuntu-budgie-17-x64#3][101-2]
+
+[101-1]: https://github.com/martinanderssondotcom/box-ubuntu-budgie-19.04/compare/v1.0.0...v1.0.1
+[101-2]: https://github.com/martinanderssondotcom/box-ubuntu-budgie-17-x64/issues/3
 
 ## 1.0.0 - 2019-05-25
 
